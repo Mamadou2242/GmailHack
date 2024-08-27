@@ -15,7 +15,7 @@ $ apt install python2
 $ apt update 
 ```
 ```
-$ git clone https://github.com/vpphacker/GmailHack
+$ git clone https://github.Mamadou2242/GmailHack
 ```
 ```
 $ cd GmailHack 
